@@ -1,0 +1,46 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 77,
+  "boxShadow": "none",
+  "defaultImage": "http://res.cloudinary.com/dz5vhanqv/image/upload/v1764441157/template-uploads/dfo6mnqeixhocsk1wuta.gif",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "1bxn1mc9fr",
+  "leftColumn": 25,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 77,
+  "mobileLeftColumn": 24,
+  "mobileRightColumn": 36,
+  "mobileTopRow": 72,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "onClick": "{{navigateTo('https://sites.google.com/view/netoplus/ana-sayfa', {}, 'SAME_WINDOW');}}",
+  "originalBottomRow": 77,
+  "originalTopRow": 72,
+  "parentColumnSpace": 6.84375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 35,
+  "topRow": 72,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "ba3almtqut",
+  "widgetName": "Image4"
+}

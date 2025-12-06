@@ -1,0 +1,46 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 70,
+  "boxShadow": "none",
+  "defaultImage": "http://res.cloudinary.com/dz5vhanqv/image/upload/v1764446231/template-uploads/n0sp0exxfklonxwahlwp.gif",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "el8uqncd2m",
+  "leftColumn": 12,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 64,
+  "mobileLeftColumn": 18,
+  "mobileRightColumn": 30,
+  "mobileTopRow": 52,
+  "needsErrorInfo": false,
+  "objectFit": "contain",
+  "onClick": "{{navigateTo('giriş ekranı', {}, 'SAME_WINDOW');}}",
+  "originalBottomRow": 70,
+  "originalTopRow": 47,
+  "parentColumnSpace": 6.84375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 47,
+  "topRow": 47,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "j9hf80lkez",
+  "widgetName": "Image1"
+}

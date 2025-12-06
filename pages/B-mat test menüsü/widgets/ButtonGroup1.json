@@ -1,0 +1,115 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 21,
+  "boxShadow": "none",
+  "buttonVariant": "PRIMARY",
+  "childStylesheet": {
+    "button": {
+      "buttonColor": "{{appsmith.theme.colors.primaryColor}}"
+    }
+  },
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "groupButtons.groupButton1.onClick"
+    },
+    {
+      "key": "groupButtons.groupButton2.onClick"
+    },
+    {
+      "key": "groupButtons.groupButton3.menuItems.menuItem3.onClick"
+    }
+  ],
+  "groupButtons": {
+    "groupButton1": {
+      "buttonColor": "#1e3a8a",
+      "buttonType": "SIMPLE",
+      "disabledWhenInvalid": false,
+      "iconName": "heart",
+      "id": "groupButton1",
+      "index": 0,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Favori",
+      "menuItems": {},
+      "onClick": "{{showAlert('denendi', 'success');}}",
+      "placement": "CENTER",
+      "widgetId": ""
+    },
+    "groupButton2": {
+      "buttonColor": "#1e3a8a",
+      "buttonType": "SIMPLE",
+      "disabledWhenInvalid": false,
+      "iconName": "add",
+      "id": "groupButton2",
+      "index": 1,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "ekle",
+      "menuItems": {},
+      "onClick": "{{showAlert('denendi', 'success');}}",
+      "placement": "CENTER",
+      "widgetId": ""
+    },
+    "groupButton3": {
+      "buttonColor": "#1e3a8a",
+      "buttonType": "MENU",
+      "disabledWhenInvalid": false,
+      "iconName": "more",
+      "id": "groupButton3",
+      "index": 2,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "ekstra",
+      "menuItems": {
+        "menuItem3": {
+          "backgroundColor": "#DD4B34",
+          "disabledWhenInvalid": false,
+          "iconAlign": "right",
+          "iconColor": "#FFFFFF",
+          "iconName": "trash",
+          "id": "menuItem3",
+          "index": 0,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "sil",
+          "onClick": "{{showAlert('denedi', 'success');}}",
+          "textColor": "#FFFFFF",
+          "widgetId": ""
+        }
+      },
+      "placement": "CENTER",
+      "widgetId": ""
+    }
+  },
+  "isCanvas": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "fj5x16oh3t",
+  "leftColumn": 25,
+  "minWidth": 450,
+  "mobileBottomRow": 20,
+  "mobileLeftColumn": 32,
+  "mobileRightColumn": 56,
+  "mobileTopRow": 16,
+  "needsErrorInfo": false,
+  "orientation": "horizontal",
+  "originalBottomRow": 21,
+  "originalTopRow": 16,
+  "parentColumnSpace": 6.84375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 63,
+  "topRow": 16,
+  "type": "BUTTON_GROUP_WIDGET",
+  "version": 1,
+  "widgetId": "me26kvk4gh",
+  "widgetName": "ButtonGroup1"
+}

@@ -1,0 +1,31 @@
+{
+  "gitSyncId": "6919ec93a187164ba373cd70_e14dcf5c-0e38-4847-aabd-fe9e9a3cb7b7",
+  "unpublishedPage": {
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 700.0,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0.0,
+          "minHeight": 800.0,
+          "parentColumnSpace": 1.0,
+          "parentRowSpace": 1.0,
+          "rightColumn": 1224.0,
+          "snapColumns": 64.0,
+          "snapRows": 78.0,
+          "topRow": 0.0,
+          "type": "CANVAS_WIDGET",
+          "version": 94.0,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "B-mat test menüsü",
+    "slug": "b-mat-test-menusu"
+  }
+}

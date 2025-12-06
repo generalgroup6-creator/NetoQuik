@@ -1,0 +1,44 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 9,
+  "boxShadow": "none",
+  "defaultImage": "",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "http://res.cloudinary.com/dz5vhanqv/image/upload/v1763989613/template-uploads/ygrz9uxszs3cnyxipgqo.png",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "hw996vu8ce",
+  "leftColumn": 2,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 13,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 12,
+  "mobileTopRow": 1,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "onClick": "{{navigateTo('NetoQuik arayüz', {}, 'SAME_WINDOW').then(() => {\n  showAlert('geri dönülüyor...', 'success');\n});}}",
+  "parentColumnSpace": 6.53125,
+  "parentId": "pf8ja8nv3h",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 17,
+  "topRow": 0,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "5z2dew71u2",
+  "widgetName": "Image1"
+}
