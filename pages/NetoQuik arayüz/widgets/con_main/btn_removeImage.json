@@ -34,7 +34,7 @@
   "mobileLeftColumn": 23,
   "mobileRightColumn": 39,
   "mobileTopRow": 27,
-  "onClick": "{{resetWidget(\"con_main\");}}",
+  "onClick": "{{resetWidget(\"con_main\");\nshowModal(Modal1.name);}}",
   "originalBottomRow": 44,
   "originalTopRow": 39,
   "parentColumnSpace": 8.6650390625,
