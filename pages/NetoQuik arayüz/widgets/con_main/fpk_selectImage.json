@@ -39,7 +39,7 @@
   "mobileLeftColumn": 0,
   "mobileRightColumn": 16,
   "mobileTopRow": 27,
-  "onFilesSelected": "",
+  "onFilesSelected": "{{showAlert('Resimlerinizi url\\'ye çevirin.', 'success');}}",
   "originalBottomRow": 18,
   "originalTopRow": 9,
   "parentColumnSpace": 8.6650390625,
