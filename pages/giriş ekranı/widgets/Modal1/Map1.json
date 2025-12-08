@@ -4,7 +4,7 @@
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "bottomRow": 52,
-  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "boxShadow": "0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06)",
   "defaultMarkers": [
     {
       "lat": 40.7128,
@@ -15,9 +15,6 @@
   "dynamicBindingPathList": [
     {
       "key": "borderRadius"
-    },
-    {
-      "key": "boxShadow"
     }
   ],
   "dynamicTriggerPathList": [
@@ -37,8 +34,9 @@
   "key": "es5jctcnqo",
   "leftColumn": 0,
   "mapCenter": {
-    "lat": 40.7128,
-    "long": -74.006
+    "lat": 41.0082376,
+    "long": 28.9783589,
+    "title": "İstanbul, Türkiye"
   },
   "minWidth": 450,
   "mobileBottomRow": 48,
