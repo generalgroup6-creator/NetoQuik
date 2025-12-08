@@ -11,7 +11,11 @@
       "key": "borderRadius"
     }
   ],
-  "dynamicTriggerPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
   "iconAlign": "left",
   "iconName": "arrow-right",
   "isDefaultClickDisabled": true,
@@ -26,6 +30,7 @@
   "mobileRightColumn": 40,
   "mobileTopRow": 35,
   "needsErrorInfo": false,
+  "onClick": "{{navigateTo('NetoQuik arayüz', {}, 'SAME_WINDOW');}}",
   "originalBottomRow": 45,
   "originalTopRow": 35,
   "parentColumnSpace": 6.84375,
