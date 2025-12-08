@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 57,
+  "bottomRow": 59,
   "boxShadow": "none",
   "buttonColor": "#1e3a8a",
   "buttonVariant": "PRIMARY",
@@ -70,7 +70,7 @@
   ],
   "text": "Yükle",
   "thumbnailSVG": "/static/media/thumbnail.a348658e996feaad96cadc30d99374ff.svg",
-  "topRow": 48,
+  "topRow": 50,
   "type": "BUTTON_WIDGET",
   "version": 1,
   "widgetId": "aon8icklid",
