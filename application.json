@@ -49,6 +49,10 @@
     {
       "id": "B-mat test menüsü",
       "isDefault": false
+    },
+    {
+      "id": "sürüm notları",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {
