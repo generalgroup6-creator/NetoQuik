@@ -33,7 +33,7 @@
   "mobileRightColumn": 12,
   "mobileTopRow": 5,
   "objectFit": "contain",
-  "onClick": "{{showAlert(\"\", '')}}",
+  "onClick": "{{showAlert('Sürüm Notları', 'success');\nnavigateTo('sürüm notları', {}, 'SAME_WINDOW');}}",
   "originalBottomRow": 48,
   "originalTopRow": 20,
   "parentColumnSpace": 8.6650390625,
