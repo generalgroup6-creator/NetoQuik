@@ -50,8 +50,8 @@
     "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
   },
   "onClick": "{{upload_file.run();\nshowAlert('\"Bir piksel, bin kelime eder.\"', 'success');}}",
-  "originalBottomRow": 55,
-  "originalTopRow": 46,
+  "originalBottomRow": 57,
+  "originalTopRow": 48,
   "parentColumnSpace": 5.3955078125,
   "parentId": "0bw2f7zunw",
   "parentRowSpace": 10,

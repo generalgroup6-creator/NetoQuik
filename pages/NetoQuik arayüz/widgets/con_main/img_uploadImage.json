@@ -10,7 +10,11 @@
       "key": "image"
     }
   ],
-  "dynamicTriggerPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
   "enableDownload": false,
   "enableRotation": false,
   "flexVerticalAlignment": "start",
@@ -29,8 +33,9 @@
   "mobileRightColumn": 12,
   "mobileTopRow": 5,
   "objectFit": "contain",
-  "originalBottomRow": 46,
-  "originalTopRow": 18,
+  "onClick": "{{showAlert(\"\", '')}}",
+  "originalBottomRow": 48,
+  "originalTopRow": 20,
   "parentColumnSpace": 8.6650390625,
   "parentId": "0bw2f7zunw",
   "parentRowSpace": 10,

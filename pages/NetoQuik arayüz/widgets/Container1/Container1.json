@@ -1,20 +1,19 @@
 {
   "animateLoading": true,
-  "backgroundColor": "#18181b",
+  "backgroundColor": "{{appsmith.theme.colors.primaryColor}}",
   "borderColor": "#1e3a8a",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "borderWidth": "5",
-  "bottomRow": 84,
+  "borderWidth": "15",
+  "bottomRow": 14,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "children": [
     {
       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-      "bottomRow": 670,
+      "bottomRow": 90,
       "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
       "canExtend": false,
       "containerStyle": "none",
       "detachFromLayout": true,
-      "displayName": "Canvas",
       "dynamicBindingPathList": [
         {
           "key": "borderRadius"
@@ -25,11 +24,9 @@
       ],
       "dynamicHeight": "AUTO_HEIGHT",
       "flexLayers": [],
-      "hideCard": true,
-      "isDeprecated": false,
       "isLoading": false,
       "isVisible": true,
-      "key": "mtfvcawylm",
+      "key": "vek71rpaxp",
       "leftColumn": 0,
       "maxDynamicHeight": 9000,
       "minDynamicHeight": 4,
@@ -37,86 +34,62 @@
       "minWidth": 450,
       "mobileBottomRow": 100,
       "mobileLeftColumn": 0,
-      "mobileRightColumn": 689.625,
+      "mobileRightColumn": 164.25,
       "mobileTopRow": 0,
       "needsErrorInfo": false,
-      "onCanvasUI": {
-        "disableParentSelection": true,
-        "focusBGCSSVar": "--on-canvas-ui-widget-focus",
-        "focusColorCSSVar": "--on-canvas-ui-widget-selection",
-        "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
-        "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
-      },
       "parentColumnSpace": 1,
-      "parentId": "bu4pp3cs59",
+      "parentId": "gtdz5plxet",
       "parentRowSpace": 1,
       "renderMode": "CANVAS",
       "responsiveBehavior": "fill",
-      "rightColumn": 689.625,
+      "rightColumn": 164.25,
       "topRow": 0,
       "type": "CANVAS_WIDGET",
       "version": 1,
-      "widgetId": "0bw2f7zunw",
-      "widgetName": "Canvas1"
+      "widgetId": "sbdh2ayd90",
+      "widgetName": "Canvas3"
     }
   ],
   "containerStyle": "card",
-  "displayName": "Container",
   "dynamicBindingPathList": [
     {
       "key": "borderRadius"
     },
     {
       "key": "boxShadow"
+    },
+    {
+      "key": "backgroundColor"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
   "dynamicTriggerPathList": [],
   "flexVerticalAlignment": "stretch",
-  "hideCard": false,
-  "iconSVG": "https://appcdn.appsmith.com/static/media/icon.dcc052e58db911c4c8955c200f4bcf5c.svg",
   "isCanvas": true,
-  "isDeprecated": false,
   "isLoading": false,
   "isVisible": true,
-  "key": "57byujd7be",
+  "key": "cbb2xv2wqd",
   "leftColumn": 3,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 10,
   "minWidth": 450,
-  "mobileBottomRow": 77,
-  "mobileLeftColumn": 22,
-  "mobileRightColumn": 46,
-  "mobileTopRow": 67,
+  "mobileBottomRow": 80,
+  "mobileLeftColumn": 16,
+  "mobileRightColumn": 40,
+  "mobileTopRow": 70,
   "needsErrorInfo": false,
-  "onCanvasUI": {
-    "disableParentSelection": false,
-    "focusBGCSSVar": "--on-canvas-ui-widget-focus",
-    "focusColorCSSVar": "--on-canvas-ui-widget-selection",
-    "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
-    "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
-  },
-  "originalBottomRow": 84,
-  "originalTopRow": 16,
-  "parentColumnSpace": 28.734375,
+  "originalBottomRow": 14,
+  "originalTopRow": 2,
+  "parentColumnSpace": 6.84375,
   "parentId": "0",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 60,
-  "searchTags": [
-    "div",
-    "parent",
-    "group"
-  ],
+  "rightColumn": 61,
   "shouldScrollContents": true,
-  "tags": [
-    "Layout"
-  ],
-  "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.6cb355b93146b5347bbb048a568ed446.svg",
-  "topRow": 16,
+  "topRow": 2,
   "type": "CONTAINER_WIDGET",
   "version": 1,
-  "widgetId": "bu4pp3cs59",
-  "widgetName": "con_main"
+  "widgetId": "gtdz5plxet",
+  "widgetName": "Container1"
 }
