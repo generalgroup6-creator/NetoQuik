@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "1.5rem",
-  "bottomRow": 50,
+  "bottomRow": 48,
   "boxShadow": "none",
   "defaultImage": "http://res.cloudinary.com/dz5vhanqv/image/upload/v1765039430/template-uploads/f9mqett9gyncwal8jlsu.gif",
   "displayName": "Image",
@@ -34,8 +34,8 @@
   "mobileTopRow": 5,
   "objectFit": "contain",
   "onClick": "{{showAlert('Sürüm Notları', 'success');\nnavigateTo('sürüm notları', {}, 'SAME_WINDOW');}}",
-  "originalBottomRow": 48,
-  "originalTopRow": 20,
+  "originalBottomRow": 50,
+  "originalTopRow": 22,
   "parentColumnSpace": 8.6650390625,
   "parentId": "0bw2f7zunw",
   "parentRowSpace": 10,
@@ -44,7 +44,7 @@
   "tags": [
     "Media"
   ],
-  "topRow": 22,
+  "topRow": 20,
   "type": "IMAGE_WIDGET",
   "version": 1,
   "widgetId": "1cv0lrm12j",

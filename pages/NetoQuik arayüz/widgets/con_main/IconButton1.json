@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 41,
+  "bottomRow": 39,
   "boxShadow": "none",
   "buttonColor": "#1e3a8a",
   "buttonVariant": "PRIMARY",
@@ -39,8 +39,8 @@
     "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
   },
   "onClick": "{{copyToClipboard(Input1.text);\nshowAlert('Copied', 'success');}}",
-  "originalBottomRow": 39,
-  "originalTopRow": 34,
+  "originalBottomRow": 41,
+  "originalTopRow": 36,
   "parentColumnSpace": 5.3955078125,
   "parentId": "0bw2f7zunw",
   "parentRowSpace": 10,
@@ -55,7 +55,7 @@
     "Buttons"
   ],
   "thumbnailSVG": "/static/media/thumbnail.b02b764a52db45d332efa723178a50a4.svg",
-  "topRow": 36,
+  "topRow": 34,
   "type": "ICON_BUTTON_WIDGET",
   "version": 1,
   "widgetId": "79zyqc5e58",
