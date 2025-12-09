@@ -30,7 +30,7 @@
   "mobileTopRow": 0,
   "needsErrorInfo": false,
   "objectFit": "cover",
-  "onClick": "{{navigateTo('hakkında', {}, 'SAME_WINDOW').then(() => {\n  showAlert('hakkında', 'success');\n});}}",
+  "onClick": "",
   "parentColumnSpace": 6.3173828125,
   "parentId": "0bw2f7zunw",
   "parentRowSpace": 10,

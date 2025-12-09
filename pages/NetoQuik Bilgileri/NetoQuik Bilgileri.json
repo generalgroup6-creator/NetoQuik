@@ -1,11 +1,11 @@
 {
-  "gitSyncId": "6919ec93a187164ba373cd70_a7bf0c27-d83f-4d06-88e1-385f3adfe8b5",
+  "gitSyncId": "6919ec93a187164ba373cd70_40f63164-8285-40f9-a7ef-419bdc86c47a",
   "unpublishedPage": {
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 640,
+          "bottomRow": 890,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -25,7 +25,7 @@
         }
       }
     ],
-    "name": "hakkında",
-    "slug": "hakknda"
+    "name": "NetoQuik Bilgileri",
+    "slug": "netoquik-bilgileri"
   }
 }

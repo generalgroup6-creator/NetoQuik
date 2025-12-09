@@ -43,15 +43,11 @@
       "isDefault": true
     },
     {
-      "id": "hakkında",
-      "isDefault": false
-    },
-    {
       "id": "B-mat test menüsü",
       "isDefault": false
     },
     {
-      "id": "sürüm notları",
+      "id": "NetoQuik Bilgileri",
       "isDefault": false
     }
   ],
