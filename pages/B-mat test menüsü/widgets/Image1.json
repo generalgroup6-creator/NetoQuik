@@ -30,7 +30,7 @@
   "mobileTopRow": 52,
   "needsErrorInfo": false,
   "objectFit": "contain",
-  "onClick": "{{navigateTo('giriş ekranı', {}, 'SAME_WINDOW');}}",
+  "onClick": "{{navigateTo('NetoQuik arayüz', {}, 'SAME_WINDOW');}}",
   "originalBottomRow": 70,
   "originalTopRow": 47,
   "parentColumnSpace": 6.84375,
