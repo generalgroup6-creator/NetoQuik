@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 89,
+  "bottomRow": 85,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -27,8 +27,8 @@
   "mobileRightColumn": 40,
   "mobileTopRow": 47,
   "needsErrorInfo": false,
-  "originalBottomRow": 89,
-  "originalTopRow": 83,
+  "originalBottomRow": 85,
+  "originalTopRow": 79,
   "overflow": "NONE",
   "parentColumnSpace": 6.84375,
   "parentId": "0",
@@ -40,7 +40,7 @@
   "text": "© 2025 NetoQuik • Açık Kaynak Proje\nGitHub: github.com/generalgroup6-creator/NetoQuik\nGeliştirici: bettagroupTR\n",
   "textAlign": "CENTER",
   "textColor": "#f4f4f5",
-  "topRow": 83,
+  "topRow": 79,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
