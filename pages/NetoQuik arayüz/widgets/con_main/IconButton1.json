@@ -24,7 +24,7 @@
   "isLoading": false,
   "isVisible": true,
   "key": "zbngn841er",
-  "leftColumn": 53,
+  "leftColumn": 48,
   "minWidth": 50,
   "mobileBottomRow": 41,
   "mobileLeftColumn": 62,
@@ -46,7 +46,7 @@
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "hug",
-  "rightColumn": 61,
+  "rightColumn": 59,
   "searchTags": [
     "click",
     "submit"
