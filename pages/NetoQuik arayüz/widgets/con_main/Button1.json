@@ -49,7 +49,7 @@
     "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
     "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
   },
-  "onClick": "{{upload_file.run();\nshowAlert('\"Bir piksel, bin kelime eder.\"', 'success');}}",
+  "onClick": "{{upload_file.run();}}",
   "originalBottomRow": 57,
   "originalTopRow": 48,
   "parentColumnSpace": 5.3955078125,
