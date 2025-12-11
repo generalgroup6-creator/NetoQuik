@@ -1,6 +1,8 @@
 {
   "allowedFileTypes": [
-    "image/*"
+    "image/*",
+    ".png",
+    "image/jpeg"
   ],
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
@@ -32,7 +34,7 @@
   "key": "5azr302uj1",
   "label": "Dosya Seçin",
   "leftColumn": 3,
-  "maxFileSize": 5,
+  "maxFileSize": "10",
   "maxNumFiles": 1,
   "minWidth": 120,
   "mobileBottomRow": 31,
