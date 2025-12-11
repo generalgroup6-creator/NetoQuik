@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 7,
+  "bottomRow": 5,
   "boxShadow": "none",
   "dynamicBindingPathList": [
     {
@@ -10,52 +10,38 @@
   ],
   "dynamicTriggerPathList": [
     {
-      "key": "menuItems.menuItem1.onClick"
-    },
-    {
-      "key": "menuItems.menuItem2.onClick"
+      "key": "menuItems.menuItem3.onClick"
     }
   ],
   "iconAlign": "left",
-  "iconName": "equals",
+  "iconName": "help",
   "isCompact": false,
   "isDisabled": false,
   "isLoading": false,
   "isVisible": true,
-  "key": "hn3l91cb07",
+  "key": "mc8u2a3axy",
   "label": "",
-  "leftColumn": 46,
+  "leftColumn": 50,
   "menuColor": "#1e3a8a",
   "menuItems": {
-    "menuItem1": {
-      "backgroundColor": "#1e3a8a",
-      "id": "menuItem1",
+    "menuItem3": {
+      "backgroundColor": "#18181b",
+      "id": "menuItem3",
       "index": 0,
       "isDisabled": false,
       "isVisible": true,
-      "label": "B-mat",
-      "onClick": "{{navigateTo('https://sites.google.com/view/b-mat-bettamateryal/ana-sayfa', {}, 'SAME_WINDOW').then(() => {\n  showAlert('B-mat', 'success');\n});}}",
-      "textColor": "#f4f4f5",
-      "widgetId": ""
-    },
-    "menuItem2": {
-      "backgroundColor": "#1e3a8a",
-      "id": "menuItem2",
-      "index": 1,
-      "isDisabled": false,
-      "isVisible": true,
-      "label": "Bettaport",
-      "onClick": "{{navigateTo('https://sites.google.com/view/bettaport/ana-sayfa', {}, 'SAME_WINDOW').then(() => {\n  showAlert('Bettaport', 'success');\n});}}",
+      "label": "NQDestek",
+      "onClick": "{{navigateTo('NQDestek', {}, 'SAME_WINDOW');}}",
       "textColor": "#f4f4f5",
       "widgetId": ""
     }
   },
   "menuItemsSource": "STATIC",
-  "menuVariant": "PRIMARY",
-  "mobileBottomRow": 4,
-  "mobileLeftColumn": 45,
-  "mobileRightColumn": 61,
-  "mobileTopRow": 0,
+  "menuVariant": "TERTIARY",
+  "mobileBottomRow": 5,
+  "mobileLeftColumn": 46,
+  "mobileRightColumn": 62,
+  "mobileTopRow": 1,
   "needsErrorInfo": false,
   "parentColumnSpace": 6.3173828125,
   "parentId": "0bw2f7zunw",
@@ -63,9 +49,9 @@
   "placement": "CENTER",
   "renderMode": "CANVAS",
   "rightColumn": 61,
-  "topRow": 0,
+  "topRow": 1,
   "type": "MENU_BUTTON_WIDGET",
   "version": 1,
-  "widgetId": "r6r2iubhko",
+  "widgetId": "y4xv1azwhu",
   "widgetName": "MenuButton1"
 }
