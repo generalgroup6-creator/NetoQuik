@@ -38,7 +38,7 @@
     "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
     "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
   },
-  "onClick": "{{copyToClipboard(Input1.text);\nshowAlert('Copied', 'success');}}",
+  "onClick": "{{copyToClipboard(Input1.text);\nshowAlert('kopyalandı.', 'success');}}",
   "originalBottomRow": 39,
   "originalTopRow": 34,
   "parentColumnSpace": 5.3955078125,
