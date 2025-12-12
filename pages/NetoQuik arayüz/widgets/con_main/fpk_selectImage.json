@@ -6,7 +6,7 @@
   ],
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 19,
+  "bottomRow": 20,
   "boxShadow": "none",
   "buttonColor": "#1e3a8a",
   "displayName": "FilePicker",

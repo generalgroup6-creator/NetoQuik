@@ -3,7 +3,7 @@
   "animateLoading": true,
   "autoFocus": false,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 65,
+  "bottomRow": 66,
   "boxShadow": "none",
   "defaultText": "{{upload_file.data?.url}}",
   "displayName": "Input",
@@ -74,7 +74,7 @@
     "Inputs"
   ],
   "thumbnailSVG": "/static/media/thumbnail.a4eac1a16753ea7fc54cac7731f9ea6a.svg",
-  "topRow": 57,
+  "topRow": 58,
   "type": "INPUT_WIDGET_V2",
   "version": 2,
   "widgetId": "rr5gh6p400",
