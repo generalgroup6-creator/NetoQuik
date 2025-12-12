@@ -30,7 +30,7 @@
   "mobileTopRow": 0,
   "needsErrorInfo": false,
   "objectFit": "cover",
-  "onClick": "{{showAlert('Resimlerinizi güvenli bir şekilde url yapın', 'success');\nshowAlert('NetoQuik hizmetinizde', 'success');}}",
+  "onClick": "{{showAlert('Resimlerinizi güvenli bir şekilde url yapın', 'success');\nshowAlert('NetoQuik hizmetinizde', 'success');\nnavigateTo('giriş ekranı', {}, 'SAME_WINDOW');}}",
   "parentColumnSpace": 6.3173828125,
   "parentId": "0bw2f7zunw",
   "parentRowSpace": 10,
