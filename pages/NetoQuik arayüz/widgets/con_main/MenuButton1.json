@@ -21,7 +21,7 @@
   "isVisible": true,
   "key": "mc8u2a3axy",
   "label": "",
-  "leftColumn": 50,
+  "leftColumn": 48,
   "menuColor": "#1e3a8a",
   "menuItems": {
     "menuItem3": {
@@ -31,7 +31,7 @@
       "isDisabled": false,
       "isVisible": true,
       "label": "NQDestek",
-      "onClick": "{{navigateTo('NQDestek', {}, 'SAME_WINDOW');}}",
+      "onClick": "{{navigateTo('https://sites.google.com/view/nqdestek/ana-sayfa?authuser=0', {}, 'SAME_WINDOW');}}",
       "textColor": "#f4f4f5",
       "widgetId": ""
     }
