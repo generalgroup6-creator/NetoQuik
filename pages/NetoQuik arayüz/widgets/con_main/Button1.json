@@ -50,7 +50,7 @@
     "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
   },
   "onClick": "{{upload_file.run();}}",
-  "originalBottomRow": 57,
+  "originalBottomRow": 58,
   "originalTopRow": 48,
   "parentColumnSpace": 5.3955078125,
   "parentId": "0bw2f7zunw",
