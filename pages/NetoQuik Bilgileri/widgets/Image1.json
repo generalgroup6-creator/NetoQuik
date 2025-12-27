@@ -1,9 +1,9 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 87,
+  "bottomRow": 91,
   "boxShadow": "none",
-  "defaultImage": "http://res.cloudinary.com/dz5vhanqv/image/upload/v1765461697/template-uploads/a3ljzulosto23l3demha.gif",
+  "defaultImage": "http://res.cloudinary.com/dz5vhanqv/image/upload/v1766848937/template-uploads/q33dnxwnijq1589ahvtv.gif",
   "dynamicBindingPathList": [
     {
       "key": "borderRadius"
@@ -31,14 +31,14 @@
   "needsErrorInfo": false,
   "objectFit": "cover",
   "onClick": "{{navigateTo('B-mat test menüsü', {}, 'SAME_WINDOW');}}",
-  "originalBottomRow": 87,
-  "originalTopRow": 51,
+  "originalBottomRow": 93,
+  "originalTopRow": 57,
   "parentColumnSpace": 6.84375,
   "parentId": "0",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "rightColumn": 59,
-  "topRow": 51,
+  "topRow": 55,
   "type": "IMAGE_WIDGET",
   "version": 1,
   "widgetId": "gfcweezsnc",
