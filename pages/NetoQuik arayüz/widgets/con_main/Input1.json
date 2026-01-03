@@ -28,6 +28,7 @@
   "isDisabled": true,
   "isLoading": false,
   "isRequired": false,
+  "isSpellCheck": false,
   "isVisible": true,
   "key": "vfoh259czm",
   "label": "URL",
@@ -52,8 +53,8 @@
     "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
     "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
   },
-  "originalBottomRow": 66,
-  "originalTopRow": 58,
+  "originalBottomRow": 69,
+  "originalTopRow": 59,
   "parentColumnSpace": 5.3955078125,
   "parentId": "0bw2f7zunw",
   "parentRowSpace": 10,
